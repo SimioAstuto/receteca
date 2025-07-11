@@ -13,7 +13,7 @@ const Gallery = () => {
       image: img1,
     },
     {
-      title: "Pasta casera",
+      title: "Pizza casera",
       text: "Una receta italiana tradicional con salsa cremosa.",
       image: img2,
     },
